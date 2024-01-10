@@ -12,3 +12,4 @@ C:\Users\user\Desktop\Less2_2\obj\Debug\net8.0\refint\Less2_2.dll
 C:\Users\user\Desktop\Less2_2\obj\Debug\net8.0\Less2_2.pdb
 C:\Users\user\Desktop\Less2_2\obj\Debug\net8.0\Less2_2.genruntimeconfig.cache
 C:\Users\user\Desktop\Less2_2\obj\Debug\net8.0\ref\Less2_2.dll
+C:\Users\user\Desktop\Less2_2\obj\Debug\net8.0\Less2_2.sourcelink.json
